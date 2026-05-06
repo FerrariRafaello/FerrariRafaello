@@ -55,22 +55,6 @@ Desenvolvedor Full Stack com especialização em back-end Python. Construo siste
 
 ---
 
-### Projetos
-
-🏥 **Plataforma de Atendimento Hospitalar** — Sistema web de triagem com API REST, RBAC, modelagem relacional e integração de LLM. Liderei equipe de 3 devs e entreguei MVP em 2 semanas.
-
-🎓 **[Project Ribeirinha](https://github.com/FerrariRafaello/projectribeirinha)** — Plataforma educacional gamificada que ensina Python pra crianças de comunidades ribeirinhas. Editor de código integrado, dashboard analítico, deploy com Docker em cloud.
-
-🏗️ **[AdvancedPython](https://github.com/FerrariRafaello/AdvancedPython)** — Coleção de exemplos avançados: design patterns, serialização, iteradores e mais.
-
-📄 **[DocumentManager](https://github.com/FerrariRafaello/DocumentManager)** — Web app Flask com OOP e REST para gerenciamento de documentos.
-
-🔐 **[EmailVerifyLogin](https://github.com/FerrariRafaello/EmailVerifyLogin)** — API Flask com registro, verificação de email e autenticação.
-
-🏭 **[FactoryPattern](https://github.com/FerrariRafaello/FactoryPattern)** — Implementação do Factory Pattern com Flask REST API.
-
----
-
 ### Formação
 
 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNINTER (2025)
