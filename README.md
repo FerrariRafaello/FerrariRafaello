@@ -9,7 +9,7 @@ Rio de Janeiro, Brasil &nbsp;·&nbsp; Open to Remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaello-ferrari-0ba87a349/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelloferrari@icloud.com)
-[![Critcine](https://img.shields.io/badge/critcine.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://critcine.com)
+[![Critcine](https://img.shields.io/badge/critcine.com-000000?style=for-the-badge)](https://critcine.com)
 
 </div>
 
@@ -17,7 +17,7 @@ Rio de Janeiro, Brasil &nbsp;·&nbsp; Open to Remote
 
 ### About
 
-Full Stack Developer specialized in Python backend. I build systems from scratch — from database modeling to production deployment — with a focus on clean architecture and security. Internationally certified by the Python Institute at three levels, with hands-on experience in technical leadership, LLM integration and real product delivery.
+Full Stack Developer specialized in Python backend. I build complete web products from scratch — REST APIs with FastAPI, PostgreSQL and Docker on the backend, Next.js and TypeScript on the frontend. Internationally certified by the Python Institute at three levels (PCEP → PCAP → PCPP1). Currently running Critcine in production at critcine.com.
 
 ---
 
@@ -47,7 +47,7 @@ Full Stack Developer specialized in Python backend. I build systems from scratch
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square&logo=alembic&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square)
 
 **Frontend**
 
@@ -59,7 +59,7 @@ Full Stack Developer specialized in Python backend. I build systems from scratch
 **DevOps & Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white&logoWidth=0)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -70,8 +70,8 @@ Full Stack Developer specialized in Python backend. I build systems from scratch
 
 <div align="center">
 
-[![Critcine Backend](https://github-readme-stats.vercel.app/api/pin/?username=FerrariRafaello&repo=critcine-backend&theme=tokyonight&hide_border=true)](https://github.com/FerrariRafaello/critcine-backend)
-[![Critcine Frontend](https://github-readme-stats.vercel.app/api/pin/?username=FerrariRafaello&repo=critcine-frontend&theme=tokyonight&hide_border=true)](https://github.com/FerrariRafaello/critcine-frontend)
+[![critcine-backend](https://img.shields.io/badge/critcine--backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FerrariRafaello/critcine-backend)
+[![critcine-frontend](https://img.shields.io/badge/critcine--frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FerrariRafaello/critcine-frontend)
 
 **[critcine.com](https://critcine.com)** — Social movie review platform · Live in production
 
