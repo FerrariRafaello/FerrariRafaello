@@ -86,7 +86,8 @@ Full Stack Developer specialized in Python backend. I build complete web product
 
 ### Education & Languages
 
-🎓 **Systems Analysis and Development** — UNINTER (2025)
+🎓 **Computer Science** — UniCarioca (2026-2028)
+🎓 **Systems Analysis and Development** — UNINTER (2023-2025)
 
 🌐 Portuguese (native) · English (advanced) · Spanish (intermediate)
 
